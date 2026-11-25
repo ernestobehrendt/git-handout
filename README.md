@@ -6,20 +6,19 @@
 **„Git – The information manager from hell."**
 
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](https://git-scm.com)
-[![Dauer](https://img.shields.io/badge/Dauer-3%20Min.-blue)](#-hands-on)
 [![Account](https://img.shields.io/badge/GitHub--Account-nicht%20n%C3%B6tig-success)](#-hands-on)
 [![Handout](https://img.shields.io/badge/📄-Handout-orange)](handout/GIT-HANDOUT.md)
 
-Ernesto Behrendt · OSZ Technik Teltow · 09.10.2026
+Ernesto Behrendt · OSZ Technik Teltow · 25.11.2026
 
 </div>
 
 ---
 
-## 🎯 Hands-on
+## Hands-on
 
 > **Aufgabe:** Clone dieses Repository und committe ein Kompliment zum Vortrag.
-> ⏱ Dauer: ca. 3 Minuten · 🔑 GitHub-Account: nicht nötig
+> 🔑 GitHub-Account: nicht nötig
 
 | Schritt | Was passiert | Befehl |
 | :---: | --- | --- |
