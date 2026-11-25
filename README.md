@@ -18,7 +18,7 @@ Ernesto Behrendt · OSZ Technik Teltow · 25.11.2026
 ## Hands-on
 
 > **Aufgabe:** Clone dieses Repository und committe ein Kompliment zum Vortrag.
-> 🔑 GitHub-Account: nicht nötig
+
 
 | Schritt | Was passiert | Befehl |
 | :---: | --- | --- |
